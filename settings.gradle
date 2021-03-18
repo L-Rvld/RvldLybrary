@@ -1,3 +1,2 @@
 include ':Lybrary'
-include ':app'
 rootProject.name = "Lybrary"
